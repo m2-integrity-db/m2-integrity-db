@@ -1,0 +1,4 @@
+# Flat per-release bundles are a generated join, not source data. They ship as
+# GitHub Release assets, which do not count toward repository size, so clones
+# stay small. Regenerate with: php bin/build bundles --edition=ce
+db/releases/*/*.csv.gz
