@@ -1,6 +1,6 @@
 {
     "schema_version": 1,
-    "generated_at": "2026-08-30T19:26:16+00:00",
+    "generated_at": "2026-09-02T08:54:49+00:00",
     "hash_algorithm": "sha256",
     "source_url_templates": {
         "ce": "https://mirror.mage-os.org/packages/{vendor}/{name}-{version}.zip",
@@ -177,8 +177,8 @@
         }
     },
     "totals": {
-        "package_files": 24135,
-        "rows": 5759732
+        "package_files": 24138,
+        "rows": 5759916
     },
     "files": {
         "db/packages/magento/adobe-ims/2.1.2-p1.csv": "ab6ac53afb70abd5a5248f3f291f7830e389b930135ed30be5b8742e806c0983",
@@ -8927,6 +8927,7 @@
         "db/packages/magento/module-data-exporter/103.4.30.csv": "f350aa0fdd271c2aea075243b0a4a39065a02d0310ea859a00e3783dcf70ead0",
         "db/packages/magento/module-data-exporter/103.4.31.csv": "4de4a7d845142e9d099a80f04777853513a5dee2ef041fdf131b34d509514e49",
         "db/packages/magento/module-data-exporter/103.4.32.csv": "fd6c1cb51bfa51063eecc06fb6fe52c350dd6755e34b8f3c4187ee9bb730c504",
+        "db/packages/magento/module-data-exporter/103.4.33.csv": "abbebcde46afda8c6c28fc9d019b758e10c2112234839912c7276ceb02675ba9",
         "db/packages/magento/module-data-exporter/103.4.4.csv": "592c154c743fc6725c4c33ae3d3f0a4316bd5f506efb7d32e66656d5d8be9070",
         "db/packages/magento/module-data-exporter/103.4.5.csv": "e314207d37d2676149669174b077a9f5f041a5bf0500bd202c92a8f0677f080d",
         "db/packages/magento/module-data-exporter/103.4.6.csv": "484c8ad17019514224068c4179e66d13338dbfca740a3dcb76c14d179cebaf51",
@@ -17070,6 +17071,7 @@
         "db/packages/magento/module-query-xml/103.4.30.csv": "4af48358d134a62b68ee75fcf7237e3c5f2457d6ed551072aa09daa9832aceae",
         "db/packages/magento/module-query-xml/103.4.31.csv": "653f80be31f2216d92167c9e022260b72f3680cde67237dba77cde48d730bab8",
         "db/packages/magento/module-query-xml/103.4.32.csv": "67718af4354076ec616ce9ce4c5da600fe34539aa1488a5756bd1c439d10c46d",
+        "db/packages/magento/module-query-xml/103.4.33.csv": "f9b861fa29ef711c2368be1b1defae9c7563ad1592e784c1f1c84048c811b457",
         "db/packages/magento/module-query-xml/103.4.4.csv": "9314f7a452735c9af2443aa1245ef46ed0e5242bf3989da5bdd7caca1571a907",
         "db/packages/magento/module-query-xml/103.4.5.csv": "e957a5251521fd3d6d7de9a132f5e538d639193e32e88328034571d938df15c9",
         "db/packages/magento/module-query-xml/103.4.6.csv": "bdfc08d13ded72d20b9e2fda4eb384c7fdbbc23caba4d981490663cb476ca246",
@@ -18968,6 +18970,7 @@
         "db/packages/magento/module-saas-common/103.4.30.csv": "14edec1ea319d0a79c1b6a4e91795bb1a4e754e5f9487294f35a967815ac0ca1",
         "db/packages/magento/module-saas-common/103.4.31.csv": "aa27e9b93ecc25d142de37cd5793447066158a7111115c622ee56a31a89bc0aa",
         "db/packages/magento/module-saas-common/103.4.32.csv": "44363fd08070ec7dc46abc46bd1136299d03877a6f460e202129dfd6ebc02169",
+        "db/packages/magento/module-saas-common/103.4.33.csv": "a00f77226b8c86bd241c6d6c75ba18514b0b1b2c961d3089991bf6c98ad47c0d",
         "db/packages/magento/module-saas-common/103.4.4.csv": "e20bc08b75fce5f3df7c439769c83313921c52b321098b80fbbbfd469db63e64",
         "db/packages/magento/module-saas-common/103.4.5.csv": "73add7baa5c22b3ade535a0cfd0177a5b7fd2db967a7012a6c0f264229019b50",
         "db/packages/magento/module-saas-common/103.4.6.csv": "6e3454ac3ae563d094f92672adcdc45372f27cb9b146f9ed19660953b3972528",
