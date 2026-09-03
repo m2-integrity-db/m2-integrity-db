@@ -1,6 +1,6 @@
 {
     "schema_version": 1,
-    "generated_at": "2026-09-02T21:27:12+00:00",
+    "generated_at": "2026-09-03T19:19:53+00:00",
     "hash_algorithm": "sha256",
     "source_url_templates": {
         "ce": "https://mirror.mage-os.org/packages/{vendor}/{name}-{version}.zip",
@@ -177,8 +177,8 @@
         }
     },
     "totals": {
-        "package_files": 24201,
-        "rows": 5761826
+        "package_files": 24202,
+        "rows": 5761848
     },
     "files": {
         "db/packages/magento/adobe-ims/2.1.2-p1.csv": "ab6ac53afb70abd5a5248f3f291f7830e389b930135ed30be5b8742e806c0983",
@@ -1156,6 +1156,7 @@
         "db/packages/magento/magento-composer-installer/0.2.1.csv": "9362ee96030d6cdb6ea78530b03a1cacaeae46862cd7de853a33ac95b61aa318",
         "db/packages/magento/magento-composer-installer/0.3.0.csv": "380c54b604f4acdd6bfae24401e23f8dcee0843c29e48fda54a5faef8cdd1682",
         "db/packages/magento/magento-composer-installer/0.4.0.csv": "a92d57f3e112215ed9f14bcd5ea144e208fc33673e27e00b0ea271e67d06cd8c",
+        "db/packages/magento/magento-composer-installer/0.5.0.csv": "c6529aa9c94de15f22a3b8789af2e4f54c399ae8c9bfee953d79e7523c28b1bc",
         "db/packages/magento/magento-semver/1.0.0.csv": "b36e1a8bf37b7ac8b7f513a6c50530e3ee8733ec34d6e25bdd94d01cfdda798b",
         "db/packages/magento/magento-semver/1.0.2.csv": "73d6f1a22eba6ddc72cfddeff1bffbee194b752996fe35a523eaf02e6a6c0750",
         "db/packages/magento/magento-semver/10.0.0.csv": "1d19388579569dae70a8d1ca002d32e2a2b84b26313e82cac71b79a4ec8b6ac9",
