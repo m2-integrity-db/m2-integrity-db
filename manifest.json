@@ -1,6 +1,6 @@
 {
     "schema_version": 1,
-    "generated_at": "2026-09-03T19:19:53+00:00",
+    "generated_at": "2026-09-04T10:23:05+00:00",
     "hash_algorithm": "sha256",
     "source_url_templates": {
         "ce": "https://mirror.mage-os.org/packages/{vendor}/{name}-{version}.zip",
@@ -177,8 +177,8 @@
         }
     },
     "totals": {
-        "package_files": 24202,
-        "rows": 5761848
+        "package_files": 24209,
+        "rows": 5762307
     },
     "files": {
         "db/packages/magento/adobe-ims/2.1.2-p1.csv": "ab6ac53afb70abd5a5248f3f291f7830e389b930135ed30be5b8742e806c0983",
@@ -1955,6 +1955,7 @@
         "db/packages/magento/module-adobe-commerce-events-client/1.21.0.csv": "b9cbd0c562f7368f7bd3af149a7aba62ca7d423097c76e86f5588be4d4ab2a60",
         "db/packages/magento/module-adobe-commerce-events-client/1.22.0.csv": "ae86a17c39b96f1db614ae1324790c54b0642e83ac1b9eaecb29166b8ad95299",
         "db/packages/magento/module-adobe-commerce-events-client/1.22.1.csv": "eb378e89804b4893d4ee7fb4a963b19bf21d28fc8dcfd8e2c3bd7714ac8fcbf5",
+        "db/packages/magento/module-adobe-commerce-events-client/1.22.2.csv": "c0660e46685dd132edb644d26a574f95b62a72c38990f9385df101e08c3eacad",
         "db/packages/magento/module-adobe-commerce-events-client/1.3.0.csv": "169ccf8e5726c3a66ed17e9077f8039907c9bf9d55a0da0d28528ae3d412ca5d",
         "db/packages/magento/module-adobe-commerce-events-client/1.4.0.csv": "8c9c3dc5044df79dfc9c8b3487aa9292530d02f583b22ba3e30a058563bb75f2",
         "db/packages/magento/module-adobe-commerce-events-client/1.4.1.csv": "ea2003ea7160ad943be4e8b7da70744b7fe212a0d356836b2281993a794e6b9c",
@@ -1989,6 +1990,7 @@
         "db/packages/magento/module-adobe-commerce-events-generator/1.21.0.csv": "e36b4b538ed64c5dfa1995a78abd1bf2c767cf505a26618d2a61613a500aa178",
         "db/packages/magento/module-adobe-commerce-events-generator/1.22.0.csv": "e06cfc072f5bfdb3a12f25ee18854c529cd66d9c5b4bd7f94827a0ce1ca4f8ed",
         "db/packages/magento/module-adobe-commerce-events-generator/1.22.1.csv": "6e3c98e17ca27437094c771270a7378eb7b5274861b79ba17f4d126318c7165c",
+        "db/packages/magento/module-adobe-commerce-events-generator/1.22.2.csv": "6c31e78d0c4d4d842e1c43a4b63918967b14e7ec85dd59f1d165d7067d211a80",
         "db/packages/magento/module-adobe-commerce-events-generator/1.3.0.csv": "c39224a2815695211cf7552fa7ca46b430ffe225268265983599e2267c586db1",
         "db/packages/magento/module-adobe-commerce-events-generator/1.4.0.csv": "03ed537ef274fa6f8776a025c1163709eb339c1857fd4b44acd2c84c12c41279",
         "db/packages/magento/module-adobe-commerce-events-generator/1.4.1.csv": "2260f44d60aa40adb909ee3274fd9ec14bb43950e78070d2a3fd6fcfb1159fa6",
@@ -10021,6 +10023,7 @@
         "db/packages/magento/module-external-schema-graph-ql-server/1.0.2.csv": "42a56e4eaf8bbf8185d05acdc709d5b93231be75aee50b601c8d458d53b9a2e2",
         "db/packages/magento/module-external-schema-graph-ql-server/1.0.3.csv": "135a1a5387fac8b79f89a85c88f66e658afa4d214f493fa408b27d2354538143",
         "db/packages/magento/module-external-schema-graph-ql-server/1.0.4.csv": "05320995989c0f6565cbec262722f1cfc8f077ffca818b4633b27bdb05730eba",
+        "db/packages/magento/module-fastly-recommendations/6.8.0.csv": "f6e6b730eef289e1846a963ad497a9cba007f241cee9061839da633cacfcb61e",
         "db/packages/magento/module-fedex/100.0.2.csv": "f06eb8e627456f1571b0a1e30a0e3ce83531b6835eb5c7f634cc272d00ca777b",
         "db/packages/magento/module-fedex/100.0.3.csv": "df9d43c7ec985ed63d6903caf413dded0b61f71f6ccaba25573471178ddfd029",
         "db/packages/magento/module-fedex/100.0.4.csv": "6a03d95d05b52fbf96d93ea3b787ad44165a5620d4381b995a5d4ad4150abed5",
@@ -15156,6 +15159,7 @@
         "db/packages/magento/module-page-builder-product-recommendations/6.5.0.csv": "fd54cfcb3ad406eb7d73032f67fbf6279d86a2caa7b525868560be8738ab0213",
         "db/packages/magento/module-page-builder-product-recommendations/6.6.0.csv": "7e27807a98c5a3ccabd83f4edc653b4e9d504985dd7a5dc189ed2ae9e18dfc31",
         "db/packages/magento/module-page-builder-product-recommendations/6.7.0.csv": "96e08efead3302a3d2a7de6c8dbf8d700cdb8aa21ae6ce799c6499763b77cc5e",
+        "db/packages/magento/module-page-builder-product-recommendations/6.8.0.csv": "dcb50e2ed1420fee3821cb1cdd68f01f996a9c45c0009bedb42a93a7bf19cfb0",
         "db/packages/magento/module-page-builder-pwa/0.10.2.csv": "d0f6e02d268f10692591f03a8bbc257fa79a973c6ce56cee2b490d1b8d4cf1d5",
         "db/packages/magento/module-page-builder-pwa/0.10.3.csv": "67310a839296f0b945f4eb0af0b007029dbe259b3178c4e630ee35f9c4c1a429",
         "db/packages/magento/module-page-builder-pwa/0.10.4.csv": "5929da5e706eca8adb00947b2641148734d7ada09996ea773c6e46d9317b5049",
@@ -16438,6 +16442,7 @@
         "db/packages/magento/module-product-recommendations-admin/6.5.0.csv": "aa77a927d940293e25f97caf5d379625865100c408f743bef9b58055c4c347e0",
         "db/packages/magento/module-product-recommendations-admin/6.6.0.csv": "af97c33a97df23991ba8ff884ab6f0ee1a619c68d3448b7acf255d7d17bcc746",
         "db/packages/magento/module-product-recommendations-admin/6.7.0.csv": "cdbc130aa468cf5168b55565332c79407fbaa4856de820131d0ac61850b78286",
+        "db/packages/magento/module-product-recommendations-admin/6.8.0.csv": "a17f287ad4e5738ebb9132dd58bbd6837b820f986cd8331dc8873e1c420a601f",
         "db/packages/magento/module-product-recommendations-layout/1.0.2.csv": "5842a19eda6997b1587c323aae220a260c9a2ca1e0a6d197f5f11f35e331b427",
         "db/packages/magento/module-product-recommendations-layout/1.0.3.csv": "3929f9137a096948b6117acd30d8a0bb9ff1793ea9b8976e1ee01b29959ee153",
         "db/packages/magento/module-product-recommendations-layout/1.0.4.csv": "c0c662c18280620687dba78cb51731ee8a2e6df37ca7ebf534012d7b3e7f194e",
@@ -16469,6 +16474,7 @@
         "db/packages/magento/module-product-recommendations-layout/6.5.0.csv": "6b718cbd66081525d4b7b405fd9a503fdb9977b445253f310c0515c3399a115d",
         "db/packages/magento/module-product-recommendations-layout/6.6.0.csv": "1ce36e18b66389e89b9df3071a706f749d109cef909b1aa3703d17f62a9f08a2",
         "db/packages/magento/module-product-recommendations-layout/6.7.0.csv": "11f0a9d386bb1b4ec3b38d3924d0bbb17f6f09e004df13d35165d2dad5b9cbee",
+        "db/packages/magento/module-product-recommendations-layout/6.8.0.csv": "eb7932a0475829d052f4c60c2ed482bcab68cdf7990942f7837a714c07329854",
         "db/packages/magento/module-product-recommendations-sync-admin/1.0.0.csv": "5dddde08e8054abd8db10738066135c9eb57ad0a2180418743f7b4544642e0f3",
         "db/packages/magento/module-product-recommendations-sync-admin/1.0.1.csv": "ffda6653cfc53eb2477b940f1e6a8494ff8bbf68be9d31b2f0e1e0292a8072e8",
         "db/packages/magento/module-product-recommendations-sync-admin/1.0.2.csv": "206148b6a650079bec6e9bd9ec1e3569a1407a1c1097492efdcde063845c06b1",
@@ -22782,6 +22788,7 @@
         "db/packages/magento/module-visual-product-recommendations/6.5.0.csv": "0444fe4af6cb1dbbef5b8a7abdb3eab176bc592d36989496214d2fa1a4f681a7",
         "db/packages/magento/module-visual-product-recommendations/6.6.0.csv": "ba3ace44e45f290484a8b0050b5d7870b133d3ea547179a396c73a520d0102f1",
         "db/packages/magento/module-visual-product-recommendations/6.7.0.csv": "9b7f114d59ea0eb44d99191a1561a694078ff53ab8bb144e0036bf4eccd946c0",
+        "db/packages/magento/module-visual-product-recommendations/6.8.0.csv": "6687a56a0b23c3b35ad0ed19d6d3629bf17a3d3cf7a66d657eaa99c8c78d3e62",
         "db/packages/magento/module-webapi-async/100.2.0.csv": "261848a868a0ebf524e0fc4d73369d43fd406d06d779d5ea2be44b3c31169bb7",
         "db/packages/magento/module-webapi-async/100.2.1.csv": "3041a63cd8df808f2ac2af879652a9f6f7cf741864740abf35365c330cca69f8",
         "db/packages/magento/module-webapi-async/100.2.2.csv": "52659b14908b301cc4aaa53e24680c497301d84123c13bc14117b2a8d94549c0",
