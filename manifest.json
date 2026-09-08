@@ -1,6 +1,6 @@
 {
     "schema_version": 1,
-    "generated_at": "2026-09-04T10:23:05+00:00",
+    "generated_at": "2026-09-08T21:16:04+00:00",
     "hash_algorithm": "sha256",
     "source_url_templates": {
         "ce": "https://mirror.mage-os.org/packages/{vendor}/{name}-{version}.zip",
@@ -177,8 +177,8 @@
         }
     },
     "totals": {
-        "package_files": 24209,
-        "rows": 5762307
+        "package_files": 24212,
+        "rows": 5764255
     },
     "files": {
         "db/packages/magento/adobe-ims/2.1.2-p1.csv": "ab6ac53afb70abd5a5248f3f291f7830e389b930135ed30be5b8742e806c0983",
@@ -393,6 +393,7 @@
         "db/packages/magento/ece-tools/2002.2.11.csv": "a0f17b54b04fa62e7870599f336635561832ab6cae2c397f705d716628a60707",
         "db/packages/magento/ece-tools/2002.2.12.csv": "b0c982a04cdaa97a8fba6ef11e7e14ca816b5e5c42b6885dc85ad2d13c5e0ee4",
         "db/packages/magento/ece-tools/2002.2.13.csv": "c3245bde750672f2f0a241a2fbe4ead4e27f15d3af7059b17153f8c0b97dd218",
+        "db/packages/magento/ece-tools/2002.2.14.csv": "cb87d729876ac196603b06b913fb052ec0910e415cfb8d05eb23a3f1b86b431a",
         "db/packages/magento/ece-tools/2002.2.2.csv": "32ff860f4c92b7b1baeb0c3afcd559904d2c4985eda43beca1f3c23bca84e8b9",
         "db/packages/magento/ece-tools/2002.2.3.csv": "c91048329a649dcf10646f73b6b14ebc389fd722ea5e706ab7878565e16da204",
         "db/packages/magento/ece-tools/2002.2.4.csv": "d92580d3f87de5b0d034c4e1425c645836a31aa38ddd820bee94b493526ad542",
@@ -1088,6 +1089,8 @@
         "db/packages/magento/magento-cloud-patches/1.1.18.csv": "9a57cd04c5459d3720452d8ddd50ab8efa148d245b7f854d538e6a64645c1b1e",
         "db/packages/magento/magento-cloud-patches/1.1.19.csv": "dc59adfd8626036d51fa2b7aa6f8bad3e11d4ad5b35a1ff9b9cddd9db3ca5195",
         "db/packages/magento/magento-cloud-patches/1.1.2.csv": "93f3f03b63cc83750025980e7c812a880303247e19a0bce5a6c78a2affb00737",
+        "db/packages/magento/magento-cloud-patches/1.1.20.csv": "302229ab0019639bde845f51609a767ff930725df7c38822f8c26b729dc84d61",
+        "db/packages/magento/magento-cloud-patches/1.1.21.csv": "a144529179800d950b1fc9f482a19bd4b49b8006fa90d56d7cb939a4f3e8ed51",
         "db/packages/magento/magento-cloud-patches/1.1.3.csv": "c7a438182723e8e09ffd96f5cf937b7879b8fde12843e890b112d1e1c779c4ba",
         "db/packages/magento/magento-cloud-patches/1.1.4.csv": "5ca0ca887ce61e0ccc2e216b560cb1b8c5bbdd9a8c25cac9c595eac2f75a4d16",
         "db/packages/magento/magento-cloud-patches/1.1.5.csv": "c89fb2a36dbefc47f7419b1eaa65840c317819f435febb5f820ee5243b4adf67",
