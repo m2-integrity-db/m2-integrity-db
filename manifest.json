@@ -1,6 +1,6 @@
 {
     "schema_version": 1,
-    "generated_at": "2026-09-08T21:16:04+00:00",
+    "generated_at": "2026-09-10T20:58:34+00:00",
     "hash_algorithm": "sha256",
     "source_url_templates": {
         "ce": "https://mirror.mage-os.org/packages/{vendor}/{name}-{version}.zip",
@@ -177,8 +177,8 @@
         }
     },
     "totals": {
-        "package_files": 24212,
-        "rows": 5764255
+        "package_files": 24218,
+        "rows": 5764414
     },
     "files": {
         "db/packages/magento/adobe-ims/2.1.2-p1.csv": "ab6ac53afb70abd5a5248f3f291f7830e389b930135ed30be5b8742e806c0983",
@@ -9950,6 +9950,7 @@
         "db/packages/magento/module-experience-connector-admin-graph-ql/3.4.0.csv": "8ff8bfa82ee55fa343c4757e66b18305422e68c0fd8763fd279bdef92316f251",
         "db/packages/magento/module-experience-connector-admin-graph-ql/3.5.0.csv": "8228729f83f24f39e6311890d407c9e3496b1ea3fedf6ed0878cbe41ada99ae7",
         "db/packages/magento/module-experience-connector-admin-graph-ql/3.6.0.csv": "7e9da91362c8a57ffd5f7ef6d98ef7ab9185dcc402c1ba80b9020bbe0bb79ecf",
+        "db/packages/magento/module-experience-connector-admin-graph-ql/3.6.1.csv": "75430177833a0b32fcb8a2dc5df5dd255163a253195b54b012668a0ee1022706",
         "db/packages/magento/module-experience-connector-admin/1.0.0.csv": "83b0296b9e5bae0a21a8801d1bfcfda8007271db13b1c709f13d151e8b88d497",
         "db/packages/magento/module-experience-connector-admin/2.0.0.csv": "202fbb46efb5260f06c48c49b313668d48946905dad094f2380fd7e99d9311c7",
         "db/packages/magento/module-experience-connector-admin/2.0.1.csv": "7f30834b4cc990ce61f9dba0543408713382a4c0f47257d75b53439ab456114a",
@@ -9969,6 +9970,7 @@
         "db/packages/magento/module-experience-connector-admin/3.4.0.csv": "1006f31147a2945e836c77b0f3b13ca83fbc99faf1f84ff8dca9256c481da586",
         "db/packages/magento/module-experience-connector-admin/3.5.0.csv": "a53a20faba1312ae68c3b4112a196f36e5a7fb334cf889c957659451ddd28a2a",
         "db/packages/magento/module-experience-connector-admin/3.6.0.csv": "8cf29bf8d34433a890325e4c82f29bca18362a1ac28dd47276145be46e3d15a2",
+        "db/packages/magento/module-experience-connector-admin/3.6.1.csv": "87d75d135a4d42c1060ea2fe1967130e87ae3bee5349db0ce815ee5904884783",
         "db/packages/magento/module-experience-connector-aep-integration/3.0.0.csv": "ec1471ab850e53ea02d48b7eb601b2e0a3c533728820d543a84f44e89965d241",
         "db/packages/magento/module-experience-connector-aep-integration/3.1.0.csv": "ab7673bbf620fe5d1b846146c6633ce1765e273f440c2b99e1ba7b79046b70a3",
         "db/packages/magento/module-experience-connector-aep-integration/3.1.1.csv": "98944010e95ac27b7189d5f139aab8e344584f7a0478e57d81bbd46b2baf1f32",
@@ -9981,12 +9983,14 @@
         "db/packages/magento/module-experience-connector-aep-integration/3.4.0.csv": "a7809ef88d1f199d91a93f510a8c27e7ab4374534bbfd0fd4a4affc14af77933",
         "db/packages/magento/module-experience-connector-aep-integration/3.5.0.csv": "39a7add15d2acb5090e16855d629fc36ba3ee1119d7ccfc0c6a828d4f0de9da6",
         "db/packages/magento/module-experience-connector-aep-integration/3.6.0.csv": "73230cf16cdb8f18de28b041bc3deea6140ffb94b67c03daa9daefaff358b204",
+        "db/packages/magento/module-experience-connector-aep-integration/3.6.1.csv": "3c298858d927f495b55d2a19994ead3632cce79851cfd34a0b644772c9222f99",
         "db/packages/magento/module-experience-connector-customer-sync/3.2.0.csv": "d598d6a0b4cccd80aefccaab0a5f63196fe9fa05c09256898164d62737b36eea",
         "db/packages/magento/module-experience-connector-customer-sync/3.2.1.csv": "3514dea99e5c573b7428ce28b55fedec203c6534f6e9eff89a1b19edc992a48e",
         "db/packages/magento/module-experience-connector-customer-sync/3.3.0.csv": "8ccba9169bda05bc1b69cd5ca5a08631e3762b1abeeb7289745178dd198c3ddd",
         "db/packages/magento/module-experience-connector-customer-sync/3.4.0.csv": "44e927f7bf82a519178c431d610a62eef414c3b67db068ea2eb920309fdc0584",
         "db/packages/magento/module-experience-connector-customer-sync/3.5.0.csv": "53ed62db408c9f16cb6aeb846db2eb6dcf39417e29e94f8ca210a361cd32ceed",
         "db/packages/magento/module-experience-connector-customer-sync/3.6.0.csv": "138b3c34ddc102422c2c604e573002b05a0ce615de87ae0a989b1bbe0069f5d1",
+        "db/packages/magento/module-experience-connector-customer-sync/3.6.1.csv": "cc609a7acb81f3f7483d0b1b0fc9aad40be1130970ee80b1af1b2787f01f2fdc",
         "db/packages/magento/module-experience-connector-graph-ql/2.0.0.csv": "a0a22f9f64616e0c1bbf3fbde041921ed2854e6b9ab8e36d4e61a5bf1bac6a4f",
         "db/packages/magento/module-experience-connector-graph-ql/2.1.0.csv": "714903f88f2e5c8f0f88b49e7c238a3eb7b54325f131c534587e789ffa2cb1dc",
         "db/packages/magento/module-experience-connector-graph-ql/2.2.0.csv": "4f5b97a81789d0d995aee92581bd2061766889f2f44461b260d3e6f184019190",
@@ -10013,6 +10017,7 @@
         "db/packages/magento/module-experience-connector/3.4.0.csv": "ab4b85b4687da1fe63f50859349aedf9d4f4df08d76cc3280826967c012c462c",
         "db/packages/magento/module-experience-connector/3.5.0.csv": "d0d5e7b551872ac054ae450d49a7260671c61234fb4a58ffb5b11e76fea1c3c8",
         "db/packages/magento/module-experience-connector/3.6.0.csv": "eb8eee16d0ccc7fcd5948c6c4fe158a6ccf95e1791b30454bcb8ac9e26a5a0c9",
+        "db/packages/magento/module-experience-connector/3.6.1.csv": "0b1a8104b8c39b89956164e00e347909783cc32c79d7f130eebd827db5129e11",
         "db/packages/magento/module-experience-target-rule-graph-ql/2.2.0.csv": "d6e6d303f5530e4bcfc3c6ffc95ae03ba0d2ca031180983557277e86479169f4",
         "db/packages/magento/module-experience-target-rule-graph-ql/2.3.0.csv": "f9d34693352029d8fa67a6368f5df0e62fd1e5a15343765b1cc6568da175686b",
         "db/packages/magento/module-experience-target-rule-graph-ql/2.3.1.csv": "c672f05a2c0b1f5714750d01161a2bbaa9730e81308395281899df087325bfc6",
@@ -21446,6 +21451,7 @@
         "db/packages/magento/module-store/101.1.8-p3.csv": "ff479126a5d1e5e908e9cf862c5c6b92b046124d33b0f289fc0f1954adce4a79",
         "db/packages/magento/module-store/101.1.8.csv": "c37d52357f7f8ac9c035563914b29232969a1aeb4f08578fa0c3490037cf2686",
         "db/packages/magento/module-store/101.1.9.csv": "b956f1bfb9d5950f1c2d165924a1f085cfad7b26aa77ab129ec49ca6797dc364",
+        "db/packages/magento/module-storefront-mcp-enablement/1.0.2.csv": "da36730b54643c32bbd0e91ff712d48401f553667986a3a78a0c31ba68123786",
         "db/packages/magento/module-support/100.0.2.csv": "da153a9c2272b1f6cb075b7bae8d6ffb41b3bc54526d1c7332dff0b97c47f6df",
         "db/packages/magento/module-support/100.0.3.csv": "51e220014242aef2bf5e14b22ed8e1da867353d5fb84c22012ee4e93c8a39cf8",
         "db/packages/magento/module-support/100.0.4.csv": "12e2ec0b9fc47626a13982a0b96c9ffdb4f01c61099dce99c38310e0c8114315",
