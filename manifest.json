@@ -1,6 +1,6 @@
 {
     "schema_version": 1,
-    "generated_at": "2026-09-10T20:58:34+00:00",
+    "generated_at": "2026-09-17T21:35:29+00:00",
     "hash_algorithm": "sha256",
     "source_url_templates": {
         "ce": "https://mirror.mage-os.org/packages/{vendor}/{name}-{version}.zip",
@@ -177,8 +177,8 @@
         }
     },
     "totals": {
-        "package_files": 24218,
-        "rows": 5764414
+        "package_files": 24219,
+        "rows": 5764713
     },
     "files": {
         "db/packages/magento/adobe-ims/2.1.2-p1.csv": "ab6ac53afb70abd5a5248f3f291f7830e389b930135ed30be5b8742e806c0983",
@@ -6560,6 +6560,7 @@
         "db/packages/magento/module-commerce-backend-uix/4.1.1.csv": "301518f32167af8533e6d884633fd4901c43c8f4dd54ee7133f6ab3f27dc4191",
         "db/packages/magento/module-commerce-backend-uix/4.2.0.csv": "cbc012fd064692b88547df35ac4c695691fcbab90ab65cd842080debeba3c525",
         "db/packages/magento/module-commerce-backend-uix/4.2.1.csv": "c2f40cc14fd0a174ece84cf75a4b4e9c4cfdef142d7e0c29bd7ee6b09110b4f4",
+        "db/packages/magento/module-commerce-backend-uix/5.0.0.csv": "6dde206408e62e3686ccf774d6ded8526507ffaad987fc95012e59a42aa3f5b0",
         "db/packages/magento/module-company-asynchronous-operations/1.5.0.csv": "5e8609097ef8b15ff77c1109c90d6b586236439fa1018dea85c49d4a89bc4f47",
         "db/packages/magento/module-company-asynchronous-operations/1.5.1.csv": "b8a3e1e441d89e62784a84eb99ad345b9fb7085ae781ffe2c6abaa4162775195",
         "db/packages/magento/module-company-asynchronous-operations/1.5.2.csv": "8d10ce5e9b92d1bfeed7da37e9d523cd0fc77eefb4082450f92cc4d0fcd349df",
