@@ -1,6 +1,6 @@
 {
     "schema_version": 1,
-    "generated_at": "2026-09-18T10:51:53+00:00",
+    "generated_at": "2026-09-18T21:07:30+00:00",
     "hash_algorithm": "sha256",
     "source_url_templates": {
         "ce": "https://mirror.mage-os.org/packages/{vendor}/{name}-{version}.zip",
@@ -177,8 +177,8 @@
         }
     },
     "totals": {
-        "package_files": 24255,
-        "rows": 5766121
+        "package_files": 24256,
+        "rows": 5767869
     },
     "files": {
         "db/packages/magento/adobe-ims/2.1.2-p1.csv": "ab6ac53afb70abd5a5248f3f291f7830e389b930135ed30be5b8742e806c0983",
@@ -23991,6 +23991,7 @@
         "db/packages/magento/quality-patches/1.1.80.csv": "9fc78c646d20eef616e1ba2a5adb37860be49984dabaa259fec69204b8c8b13e",
         "db/packages/magento/quality-patches/1.1.81.csv": "c8961d33fdc0011ef059ad1999a9a1ed7ce285b4cde644d7c046e5e6155011e0",
         "db/packages/magento/quality-patches/1.1.82.csv": "4a24e9c7bf59285e00ae2d1a65bc79b46ae17f13c87cf5d6ae947f0149554a0a",
+        "db/packages/magento/quality-patches/1.1.83.csv": "325610ac7e0f00d3a4557f36e374bba7c8a7ef1bc79ea95301272f54e0ce2040",
         "db/packages/magento/quality-patches/1.1.9.csv": "b279de7bd4eebba846358a11b2c9d045834e8dd0cbace56d9ecd9c48815418e1",
         "db/packages/magento/safe-upgrade-tool/0.0.3.csv": "d5e5201965fe5859d7cb1949bfd3861fbaf7904069a9b989a1b5ccd67f612960",
         "db/packages/magento/safe-upgrade-tool/0.0.4.csv": "e2bfc2e019811965605e7f37f06130e8ef2019621d29591e0b030a0d36693c16",
