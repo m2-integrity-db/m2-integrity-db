@@ -1,6 +1,6 @@
 {
     "schema_version": 1,
-    "generated_at": "2026-09-29T22:33:26+00:00",
+    "generated_at": "2026-10-01T12:44:25+00:00",
     "hash_algorithm": "sha256",
     "source_url_templates": {
         "ce": "https://mirror.mage-os.org/packages/{vendor}/{name}-{version}.zip",
@@ -177,8 +177,8 @@
         }
     },
     "totals": {
-        "package_files": 24258,
-        "rows": 5769699
+        "package_files": 24260,
+        "rows": 5770044
     },
     "files": {
         "db/packages/magento/adobe-ims/2.1.2-p1.csv": "ab6ac53afb70abd5a5248f3f291f7830e389b930135ed30be5b8742e806c0983",
@@ -2526,6 +2526,7 @@
         "db/packages/magento/module-aem-assets-integration/1.4.2.csv": "7cb2dfd2a8571b6d1301e6335edb95ffeb86da6c85bf5a28a1826aacc55e392a",
         "db/packages/magento/module-aem-assets-integration/1.4.4.csv": "c6de3ee6c625c10cf472b9d574623ff851be6edcbaf3bb73757fc14eb6a30d94",
         "db/packages/magento/module-aem-assets-integration/1.4.6.csv": "ffcab7b9cc5800904f9828dc350c6932ec403eb77763c2f974e378530b4a6941",
+        "db/packages/magento/module-aem-assets-integration/1.4.7.csv": "271f3e9641205c08247c0d509ddcf3392053c1226380f9979afda641daad017a",
         "db/packages/magento/module-aem-assets-pagebuilder/1.0.11.csv": "82c14f99b21ede894782e9c154f7f41f5150f91d22e2a3deb2af069c741c45bd",
         "db/packages/magento/module-aem-assets-pagebuilder/1.0.12.csv": "357770975f59199bfda0013b3c856c896007f6473fb5181b306ff463f37aeb2e",
         "db/packages/magento/module-aem-assets-pagebuilder/1.0.13.csv": "cc93b68c21b077f44cf7c2a1fb5b356961d77210b716961aa1673719215a703c",
@@ -2562,6 +2563,7 @@
         "db/packages/magento/module-aem-assets-pagebuilder/1.4.2.csv": "c8ca486ac04f288517f3f09588f04fb6b04cc62f25c60f3b1725655a819a4dbe",
         "db/packages/magento/module-aem-assets-pagebuilder/1.4.4.csv": "de5a7e2c659930790587dc4e5feeeb000099484bdc5d6d239306db079b26ac46",
         "db/packages/magento/module-aem-assets-pagebuilder/1.4.6.csv": "61e8a06121d198d54573947fca40587aa29a7db3a669bea9dc674e6addd7e829",
+        "db/packages/magento/module-aem-assets-pagebuilder/1.4.7.csv": "1227c73b0398e6eeedd204946d551f24f3d83ace2a020c79d2007b572f3b089f",
         "db/packages/magento/module-aep-integration/1.0.0.csv": "9535554f711ec7927fc74778a0b4b47d2acfef3740d0410316cc0d82e0a31df9",
         "db/packages/magento/module-aep-integration/1.0.1.csv": "8f367b190128c6aaa9ab7438c6be1edb931a1f832c20f98ba563de14f3ab099a",
         "db/packages/magento/module-aep-integration/1.2.0.csv": "6b5908f91e91d4a26a42f6c33c4e55fe573cba8267c98eea4fffe05007cb8a95",
