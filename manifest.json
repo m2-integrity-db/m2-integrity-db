@@ -1,6 +1,6 @@
 {
     "schema_version": 1,
-    "generated_at": "2026-10-13T23:12:20+00:00",
+    "generated_at": "2026-10-14T09:25:30+00:00",
     "hash_algorithm": "sha256",
     "source_url_templates": {
         "ce": "https://mirror.mage-os.org/packages/{vendor}/{name}-{version}.zip",
@@ -177,8 +177,8 @@
         }
     },
     "totals": {
-        "package_files": 24311,
-        "rows": 5776277
+        "package_files": 24312,
+        "rows": 5777024
     },
     "files": {
         "db/packages/magento/adobe-ims/2.1.2-p1.csv": "ab6ac53afb70abd5a5248f3f291f7830e389b930135ed30be5b8742e806c0983",
@@ -1740,6 +1740,7 @@
         "db/packages/magento/magento2-functional-testing-framework/5.3.0.csv": "6b7d613bd65972666516f9284ec0390a8ff90a667315f7365975c36ea29a44e6",
         "db/packages/magento/magento2-functional-testing-framework/6.0.0.csv": "875aa49263653877c757937678eb0678c14da9301bac8fc2bd02fca9574410fb",
         "db/packages/magento/magento2-functional-testing-framework/6.0.1.csv": "58748c75b824b623e9c848dd688f545c9931a0964a31020d9459c4dde846ecff",
+        "db/packages/magento/magento2-functional-testing-framework/6.0.2.csv": "04580f6fc065bec6931121e19217a4fe719fec2bbc6234ff5df7dc4c49ec6e2f",
         "db/packages/magento/magento2-functional-testing-framework/7.0.0.csv": "7dc96d566bf84229d727f735ae806df73b7450285909844bbc8babe3ea73273e",
         "db/packages/magento/magento2-patches-tool/100.0.13.csv": "4573a229eedcbf660b512069af1c9dbc76ddcfc529b76caca11cc496962700cf",
         "db/packages/magento/magento2b2b-patches/2.2.0.csv": "ba39d84fdc548008d7219af547d0190b733e1cffe9aac7d6343e79b7f3268494",
