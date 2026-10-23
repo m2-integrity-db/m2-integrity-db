@@ -1,6 +1,6 @@
 {
     "schema_version": 1,
-    "generated_at": "2026-10-22T10:38:37+00:00",
+    "generated_at": "2026-10-23T21:29:18+00:00",
     "hash_algorithm": "sha256",
     "source_url_templates": {
         "ce": "https://mirror.mage-os.org/packages/{vendor}/{name}-{version}.zip",
@@ -177,8 +177,8 @@
         }
     },
     "totals": {
-        "package_files": 24422,
-        "rows": 5781397
+        "package_files": 24431,
+        "rows": 5782194
     },
     "files": {
         "db/packages/magento/adobe-ims/2.1.2-p1.csv": "ab6ac53afb70abd5a5248f3f291f7830e389b930135ed30be5b8742e806c0983",
@@ -15173,6 +15173,7 @@
         "db/packages/magento/module-out-of-process-tax-management/0.11.1.csv": "095cbb495f522bb8ccaf89b013e0cb4cf1b2b74910530eea7552cc88e9f57ba3",
         "db/packages/magento/module-out-of-process-tax-management/0.12.0.csv": "984a545705cfd4ef151de5b9858d21395686b2f2cd0fa0e439364d8ad6cf54df",
         "db/packages/magento/module-out-of-process-tax-management/0.12.1.csv": "6e98e901c5d4cd83d6aecb87de1e8da78f6c5e7f7006e94f9bce420eaf4ce482",
+        "db/packages/magento/module-out-of-process-tax-management/0.13.0.csv": "4a63aa8302ae30861a658420821c5747093c3232fe43e5f09d3376a663dab33a",
         "db/packages/magento/module-out-of-process-tax-management/0.2.0.csv": "55510947182d6abe712748f371d6793cf4190f675801033d21b11d2519c94f02",
         "db/packages/magento/module-out-of-process-tax-management/0.3.0.csv": "8b05b415768f8dcb01d57e4344ea73f0a0cb89f8ab8df6226f1865454b3d982f",
         "db/packages/magento/module-out-of-process-tax-management/0.4.0.csv": "fddbe9e4a603239b775089c9ef76a84c2fbaa431174f89d1641c59cad1cae74b",
@@ -15571,6 +15572,7 @@
         "db/packages/magento/module-payment-services-base/2.16.0.csv": "b6ce6e9660085cbdd42210d4439e32c0bf3fbe17851f1c47c15e579c3f57ea8b",
         "db/packages/magento/module-payment-services-base/2.16.1.csv": "8a35f4cda3ab1a1a28b684516ce29d056b5eee34a2536a4a2c853df108a50cad",
         "db/packages/magento/module-payment-services-base/2.16.2.csv": "e7352aba3c6431ddbd3e0861b8048c1932dbc1a4a55ca65971bc4049faf117ad",
+        "db/packages/magento/module-payment-services-base/2.17.0.csv": "a09be81a3894904193c1c7b1648582085d0dfb643c71745f919ffdfdc147a7d9",
         "db/packages/magento/module-payment-services-base/2.2.0.csv": "14145fc1e022504f4ac3702358aa6b17e102928d4b0eb17908c0d29f866fdf55",
         "db/packages/magento/module-payment-services-base/2.2.1.csv": "ca10147e9c1ffa5f92de5fc3927fa15d850dd6da65a1751f867407c81e8392b9",
         "db/packages/magento/module-payment-services-base/2.2.3.csv": "94dcf0d5ab6d1919900dcfec12414c3753b52c8a2afe6c9bef28d11491f9c4b0",
@@ -15624,6 +15626,7 @@
         "db/packages/magento/module-payment-services-dashboard/2.16.0.csv": "bb039bcedb5dfcde5d2cdbbf1c2c8cc73bddf5cf2ebc1934d14cca5844cd50eb",
         "db/packages/magento/module-payment-services-dashboard/2.16.1.csv": "c7a67ccb04ea793a0a6eeb04bb36e2ce1dc1bfd4fc78d6bb9ce0697b58640256",
         "db/packages/magento/module-payment-services-dashboard/2.16.2.csv": "da62859138c40169c4fe9ad59f8b8d900568f05f96ad4cc51cdf452861f11ddb",
+        "db/packages/magento/module-payment-services-dashboard/2.17.0.csv": "ffa946253c9f312d570598fe1c1fc3e791e9998063d2014d08b6b3ba4136bfc3",
         "db/packages/magento/module-payment-services-dashboard/2.2.0.csv": "a7fab74bd462d6361915d4b1e9c1863446219f56ea9ed3f2e0affc49df79ec83",
         "db/packages/magento/module-payment-services-dashboard/2.2.1.csv": "6144d7bc1b9b2892721d882aa74e592951c5cf5ecc8c140b49c64ae88803759c",
         "db/packages/magento/module-payment-services-dashboard/2.2.3.csv": "5c49ad05faf46b7ef2d442590faffd04b1c5b0ef01e03686ea56616596494b0d",
@@ -15660,6 +15663,7 @@
         "db/packages/magento/module-payment-services-paypal-graph-ql/2.16.0.csv": "aeb8a8fc04d39f53af855d67777772121069cebec1e0dbdabe8fa0b7e4b90fe1",
         "db/packages/magento/module-payment-services-paypal-graph-ql/2.16.1.csv": "913a653b35a994eeb46df453bf36f2bf1779adf0ecd863ff0b70ea1a8028af08",
         "db/packages/magento/module-payment-services-paypal-graph-ql/2.16.2.csv": "6f3f68cd506dbceeef37c4fea207b9e3621533a4ca81472d55ac8e3ed7dba766",
+        "db/packages/magento/module-payment-services-paypal-graph-ql/2.17.0.csv": "14a2485b6c1439f4e354f801c86c8bb2dcce0c48dcc5dec206207e17cfa2f827",
         "db/packages/magento/module-payment-services-paypal-graph-ql/2.3.0.csv": "85b46a60c627f73c97c123235f9e0d5ec689d1e2ccb9c983a390dff7f0e733f4",
         "db/packages/magento/module-payment-services-paypal-graph-ql/2.3.1.csv": "0f9605187e9e866af9924420126603234b318b1e6ccbc5a4271b0ae65b623a11",
         "db/packages/magento/module-payment-services-paypal-graph-ql/2.3.2.csv": "55babc3aa68868ff8f6a9fd8d66d387601826868c6ecc6142a58ec163c64bbc7",
@@ -15710,6 +15714,7 @@
         "db/packages/magento/module-payment-services-paypal/2.16.0.csv": "681420e1cc253a43849369f24947088e4410cd9afd38c0ddbe6048c6d0fd202e",
         "db/packages/magento/module-payment-services-paypal/2.16.1.csv": "db0125a4e9cb99f5dccebca7f707f23f7f9681868641e523a7456a5168a3333b",
         "db/packages/magento/module-payment-services-paypal/2.16.2.csv": "8aea58fb0dffeaff61696519923c0abcb901b3364f26ad7dc0c94a5400f6e121",
+        "db/packages/magento/module-payment-services-paypal/2.17.0.csv": "8021ee8aa8343e0c5b64ae2fc9f2f5e71d8b325ff46b5d18208ddf8383bb2829",
         "db/packages/magento/module-payment-services-paypal/2.2.0.csv": "6e5e0b1f2acd9706572079b70bea8bd8c9d96348320ae25eeffe87a8bb72ed3f",
         "db/packages/magento/module-payment-services-paypal/2.2.1.csv": "46ca3e2ae6fa6b48c7b770355a6803fd774d89cb93df1323f61d48b3a9eafccd",
         "db/packages/magento/module-payment-services-paypal/2.2.3.csv": "e3c0ca8cbf016d5b0176693be55bac8ece611df620cc34703e63b92f269ee813",
@@ -15763,6 +15768,7 @@
         "db/packages/magento/module-payment-services-saas-export/2.16.0.csv": "4732cc8afa79c1eafd28bad7d8838f3a8b666bbf1182e487f7cc59a35ce2ca52",
         "db/packages/magento/module-payment-services-saas-export/2.16.1.csv": "08d891269cd2df6d7ba272eda73a43b3483fb99712b3cf580cce09c345fe87b8",
         "db/packages/magento/module-payment-services-saas-export/2.16.2.csv": "1f4284f297de1392354cc182e5d591941f2babfcdaed2e6104dfdce0caf0c2c7",
+        "db/packages/magento/module-payment-services-saas-export/2.17.0.csv": "8aa3a89110d44a7b2c4abd625b4f617290e1d606a2e7cd1783e67b9bc23ecc35",
         "db/packages/magento/module-payment-services-saas-export/2.2.0.csv": "9ce261ab86e3bc8e85ea4917db5e6edbb1c472850e51db2234b333f656a24829",
         "db/packages/magento/module-payment-services-saas-export/2.2.1.csv": "54724ab6580d62054c6fd9475d8e78abe79e566d06df66cc105ca3fce1f593c5",
         "db/packages/magento/module-payment-services-saas-export/2.2.3.csv": "fd38e3fde457fa391a6aed7f7cfd415bd0b5c8867fd43d8b2f897d2e985332dd",
@@ -19934,6 +19940,7 @@
         "db/packages/magento/module-sales-data-exporter/2.16.0.csv": "6ec76ca26ee4449405680072a740fb47b874bc68f61e6e4b1732dcc2e13614bd",
         "db/packages/magento/module-sales-data-exporter/2.16.1.csv": "e99973c83ffcd813ec0ea33f8991b030cb2af1cebeadac01940aa2e45bb6490f",
         "db/packages/magento/module-sales-data-exporter/2.16.2.csv": "096fe98fbfdfffca7bedb95be543a127f4e3230dbee6955a69ce80a8d74ca5aa",
+        "db/packages/magento/module-sales-data-exporter/2.17.0.csv": "33185e12000040e45b3029153121561860d5dc2477842eb262d8cabd0feb22ac",
         "db/packages/magento/module-sales-data-exporter/2.2.0.csv": "b515cd08c4cd19cd13646fe58cdd63dffd63435f0890e08d669b787902517876",
         "db/packages/magento/module-sales-data-exporter/2.2.1.csv": "44fb0f9dff20dde902de77db6d7e32a7a141d4ef0831f0d4e2e1192e34f315d1",
         "db/packages/magento/module-sales-data-exporter/2.2.3.csv": "24c1d863e992dab506cb7a3764d5129ba45065107f55e43a37145016e4ed8fde",
@@ -20980,6 +20987,7 @@
         "db/packages/magento/module-service-proxy/2.16.0.csv": "098ab08af52400536d147371e5e42dbde02f4f613cc1b338919b6155f3fb80bd",
         "db/packages/magento/module-service-proxy/2.16.1.csv": "b7f1453667230074eb9c05269cac772ea69d96e656ce2f41db6f8363cd14995b",
         "db/packages/magento/module-service-proxy/2.16.2.csv": "cd355ecb2c6a1f2c64a4580b31b65fac856705d18ea3f8242e36fa04a462fd6c",
+        "db/packages/magento/module-service-proxy/2.17.0.csv": "76ac73b15052c42696206ea149b0637da214b3d065a989724272d7828174a5a1",
         "db/packages/magento/module-service-proxy/2.2.0.csv": "f3d069de6f33d3da023f803993b09bca74aa785958861014b7ede7a87dab8711",
         "db/packages/magento/module-service-proxy/2.2.1.csv": "0c2a41130a14dc6cc16cd268d8f4169449dc93057300e38cea47bb68a18f9d38",
         "db/packages/magento/module-service-proxy/2.2.3.csv": "0c58c35c055d8e492624bd340f8b2a7b93943020cdece9e3f5e76f7d754db4cc",
@@ -21534,6 +21542,7 @@
         "db/packages/magento/module-store-data-exporter/2.16.0.csv": "9936f24d809dd4349be638915012eea3aceed92614ab2ecb1bb44789f50cc538",
         "db/packages/magento/module-store-data-exporter/2.16.1.csv": "4a8386b78dfa6a651710c46d7a6aea8e8920b6efb25996b554f50ece84a9f0b4",
         "db/packages/magento/module-store-data-exporter/2.16.2.csv": "8f8e751710b05d334a64ee9223700a89f3e11ced9fd323d9ec48c40d6a6c6f94",
+        "db/packages/magento/module-store-data-exporter/2.17.0.csv": "64fc01e7371cebfaeb564b861db006af6fb342d3ee117b5ba908041d93a113d7",
         "db/packages/magento/module-store-data-exporter/2.2.0.csv": "0ceeb5809ca9170dc0b077a05ca8e26d5b37417b6a6652ec16f57bf6f42adb88",
         "db/packages/magento/module-store-data-exporter/2.2.1.csv": "87c04ef11e3dbc2216024c99cbd50a950f5f39a83c5c0927a28c3015adb1a666",
         "db/packages/magento/module-store-data-exporter/2.2.3.csv": "9c2e4a649bae947c40fef120d72a1fcd511bdfb79afc1e622be621e734e83392",
