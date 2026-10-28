@@ -1,6 +1,6 @@
 {
     "schema_version": 1,
-    "generated_at": "2026-10-23T21:29:18+00:00",
+    "generated_at": "2026-10-28T22:27:30+00:00",
     "hash_algorithm": "sha256",
     "source_url_templates": {
         "ce": "https://mirror.mage-os.org/packages/{vendor}/{name}-{version}.zip",
@@ -177,8 +177,8 @@
         }
     },
     "totals": {
-        "package_files": 24431,
-        "rows": 5782194
+        "package_files": 24435,
+        "rows": 5782692
     },
     "files": {
         "db/packages/magento/adobe-ims/2.1.2-p1.csv": "ab6ac53afb70abd5a5248f3f291f7830e389b930135ed30be5b8742e806c0983",
@@ -687,6 +687,8 @@
         "db/packages/magento/google-shopping-ads/3.0.2.csv": "4a7ee5dca4c645cfe036a471d05cf3e5f41a70bdf2d86a82bcd6c2fd50432492",
         "db/packages/magento/google-shopping-ads/4.0.0.csv": "39394ad332ca61aa2784e75ed3fec77f0ca5ae60e0bf711d6e8fa74a7130851b",
         "db/packages/magento/google-shopping-ads/4.0.1.csv": "04749a14d045a75a6c93b6607eacfe093c07e69293933260186ddbaa03434b5d",
+        "db/packages/magento/hyva-checkout-adobe-payment-services/1.0.0.csv": "a90a3b1de6e3d31619214778a7b2d7dd47915cc6cc5e7ea169e9c127ce25d56d",
+        "db/packages/magento/hyva-theme-adobe-payment-services/1.0.0.csv": "78f95e33d6e5cf8bf28a5014750675a120bb657f89709c6193e9d0ca44fb6ec1",
         "db/packages/magento/inventory-composer-installer/1.0.0.csv": "75dba68bbca89086335ab1945abf00140bfb1e81cf5c25b6ba4d9ce88b5837ee",
         "db/packages/magento/inventory-composer-installer/1.0.2.csv": "8aa5a60eeea6ab9748ef18d04b87bb02dc3284d4f659c0c41d99af92ff379454",
         "db/packages/magento/inventory-composer-installer/1.0.3.csv": "864ec8901591fc4ef927370b230acf2a49c27d803d07f5cbac9b5ef1cb95d682",
@@ -2536,6 +2538,7 @@
         "db/packages/magento/module-aem-assets-integration/1.3.7.csv": "69ca47dbcd0140d213c1615762e41f00c8dee706caab32f47bdb4f32771d788f",
         "db/packages/magento/module-aem-assets-integration/1.4.0.csv": "4742629733e64d7e5c0bbc7a437a2e4766fbb05b344d4faeaba0ac41f8e8ac85",
         "db/packages/magento/module-aem-assets-integration/1.4.1.csv": "b0fd906fd7cb3357f0a50b0d4eec577a1cbacb388f4533d24080d5216f9e8414",
+        "db/packages/magento/module-aem-assets-integration/1.4.12.csv": "5dcc768d1a639e2a868200d406f93cde6da42d60b770f41bc1ece33b368f43fb",
         "db/packages/magento/module-aem-assets-integration/1.4.2.csv": "7cb2dfd2a8571b6d1301e6335edb95ffeb86da6c85bf5a28a1826aacc55e392a",
         "db/packages/magento/module-aem-assets-integration/1.4.4.csv": "c6de3ee6c625c10cf472b9d574623ff851be6edcbaf3bb73757fc14eb6a30d94",
         "db/packages/magento/module-aem-assets-integration/1.4.6.csv": "ffcab7b9cc5800904f9828dc350c6932ec403eb77763c2f974e378530b4a6941",
@@ -2575,6 +2578,7 @@
         "db/packages/magento/module-aem-assets-pagebuilder/1.3.7.csv": "9482e7bd7acc267857173b2c4490d6853853b6c7e92767939cbc59ebc5457f2b",
         "db/packages/magento/module-aem-assets-pagebuilder/1.4.0.csv": "ec146abe6ead3c33717482e0d920c1886e1f88dab3d141b687c7ac26248f1d91",
         "db/packages/magento/module-aem-assets-pagebuilder/1.4.1.csv": "92c41e2855d2f686e75ebc21a54b9dafcc0d449c0d4a887bc80a704645c053e8",
+        "db/packages/magento/module-aem-assets-pagebuilder/1.4.12.csv": "b832c20bc898f8209b76c45bf2166fb1535c86cfbe6ce86eb6d5f59bd14b1bb6",
         "db/packages/magento/module-aem-assets-pagebuilder/1.4.2.csv": "c8ca486ac04f288517f3f09588f04fb6b04cc62f25c60f3b1725655a819a4dbe",
         "db/packages/magento/module-aem-assets-pagebuilder/1.4.4.csv": "de5a7e2c659930790587dc4e5feeeb000099484bdc5d6d239306db079b26ac46",
         "db/packages/magento/module-aem-assets-pagebuilder/1.4.6.csv": "61e8a06121d198d54573947fca40587aa29a7db3a669bea9dc674e6addd7e829",
