@@ -1,6 +1,6 @@
 {
     "schema_version": 1,
-    "generated_at": "2026-11-02T14:04:03+00:00",
+    "generated_at": "2026-11-03T01:07:15+00:00",
     "hash_algorithm": "sha256",
     "source_url_templates": {
         "ce": "https://mirror.mage-os.org/packages/{vendor}/{name}-{version}.zip",
@@ -177,8 +177,8 @@
         }
     },
     "totals": {
-        "package_files": 24457,
-        "rows": 5785222
+        "package_files": 24459,
+        "rows": 5785433
     },
     "files": {
         "db/packages/magento/adobe-ims/2.1.2-p1.csv": "ab6ac53afb70abd5a5248f3f291f7830e389b930135ed30be5b8742e806c0983",
@@ -4362,6 +4362,7 @@
         "db/packages/magento/module-catalog-data-exporter/42.4.4.csv": "a2bf134040a2b61b6a5839608c753634c860de6ef3b98e289e76d4b7160ce572",
         "db/packages/magento/module-catalog-data-exporter/42.4.5.csv": "e5b53a948ea3d5b2c6e7bb13cbf0f40c73102f8b9afea05e73fd80f462aa8d90",
         "db/packages/magento/module-catalog-enrichment/1.0.2.csv": "d0a171a517e36e88cc93f98d2b1c4d7b4981c2b8d0ae088003e62f6cc37c52db",
+        "db/packages/magento/module-catalog-enrichment/2.1.2.csv": "172cc25c636b0abd0d5c0c812382979b6d04ab5ee75660cab09ba0b2b8247a7e",
         "db/packages/magento/module-catalog-event/100.0.2.csv": "40cac1f8b3b032fc60d53f59d23367ae83e8e2dfca9aa6e105171982ba539711",
         "db/packages/magento/module-catalog-event/100.0.3.csv": "1455cd7b9cd4b85c8df233a06661bf434749765f292e0d62604a7c4b96ccb578",
         "db/packages/magento/module-catalog-event/100.0.4.csv": "1c1407fe31fc20c1766c126ac4357adaed75e0a25f78fddf1cdae19c18f18dfb",
@@ -15199,6 +15200,7 @@
         "db/packages/magento/module-out-of-process-totals-collector/1.0.0.csv": "98f9bdd72e65cd782e45b16ab89ec993219eeba488a25500febb9cf78ceb6c6c",
         "db/packages/magento/module-out-of-process-totals-collector/1.1.0.csv": "fa14021874a7568f3199069d472ebef12b82fd3258d962eb8d0971470ee18460",
         "db/packages/magento/module-out-of-process-totals-collector/1.2.0.csv": "5c13048e3f8905a7038e992f89d4a65e46dbab3e192951a9f99455f66c70cea7",
+        "db/packages/magento/module-out-of-process-totals-collector/1.2.2.csv": "c34d2a82f42bc233580e7f81beb9b6c61f48e528b73fe95987dec61ec560e230",
         "db/packages/magento/module-page-builder-admin-analytics/1.0.0.csv": "5775dd89fa5b7ed9bcf6136fcbc40e3bd07fbe7db4e655dca168cad650bec2b3",
         "db/packages/magento/module-page-builder-admin-analytics/1.0.1.csv": "c13c04b4750af6b495f3dba82e0efbc4f371cb97eb7a8fab6939c93eee90fa54",
         "db/packages/magento/module-page-builder-admin-analytics/1.1.0.csv": "5e4a3f86f7fa02c6a1e2aaa63624a9301841b41fdc7130062884be884c77f187",
