@@ -1,6 +1,6 @@
 {
     "schema_version": 1,
-    "generated_at": "2026-11-03T23:52:59+00:00",
+    "generated_at": "2026-11-04T13:43:02+00:00",
     "hash_algorithm": "sha256",
     "source_url_templates": {
         "ce": "https://mirror.mage-os.org/packages/{vendor}/{name}-{version}.zip",
@@ -177,8 +177,8 @@
         }
     },
     "totals": {
-        "package_files": 24460,
-        "rows": 5785791
+        "package_files": 24462,
+        "rows": 5785905
     },
     "files": {
         "db/packages/magento/adobe-ims/2.1.2-p1.csv": "ab6ac53afb70abd5a5248f3f291f7830e389b930135ed30be5b8742e806c0983",
@@ -8342,6 +8342,7 @@
         "db/packages/magento/module-custom-attribute-serializable-graph-ql/0.5.0.csv": "c2d4dfbb3969f7ae1ed2efbdc41c887765e0535a3658ae4ff96378915cb44a0a",
         "db/packages/magento/module-custom-attribute-serializable-graph-ql/0.6.0.csv": "35a1242848c77bde473fcbbfb4db1a8faa462cc874bfe51cfd896cce5679a998",
         "db/packages/magento/module-custom-attribute-serializable-graph-ql/0.6.1.csv": "1b8d544edb69b103e155781277ed8fbcc0673966c256f0bb4135857281b257ad",
+        "db/packages/magento/module-custom-attribute-serializable-graph-ql/0.7.0.csv": "313e66a45750cb2bd3a1ca69b1637ad9ad5c9646897a71daee848e8dca89e160",
         "db/packages/magento/module-custom-attribute-serializable/0.1.3.csv": "f110c4970f8c364b100265929651f92987b0db7aa0f0ecd49d495d03d7a237d0",
         "db/packages/magento/module-custom-attribute-serializable/0.1.4.csv": "c307e16f5e29500addcabd4decd4a5739dc189fd8bf1ddd3f1ab281b77c63978",
         "db/packages/magento/module-custom-attribute-serializable/0.1.5.csv": "a79b93e7eead53142fccaee1cf90433a4ac46b432d1dc88ee1364dd65f13a4f2",
@@ -8352,6 +8353,7 @@
         "db/packages/magento/module-custom-attribute-serializable/0.5.0.csv": "9d0979e1425b9038428273df14b26dfd695b6b7e188185157cb17eca5a8bc4cc",
         "db/packages/magento/module-custom-attribute-serializable/0.6.0.csv": "7850784cb6a16701e21ea3015c403a61bcad3e13901d67eb643fe524a180c894",
         "db/packages/magento/module-custom-attribute-serializable/0.6.1.csv": "78d32902ec5df252181ae2d9de8b7507df4fef1b9decb0c87e3669199641f6ad",
+        "db/packages/magento/module-custom-attribute-serializable/0.7.0.csv": "a6096fac8c8be8cef2ff4ef6b7f4299e772d96b611ca67eb37def3899be08ab2",
         "db/packages/magento/module-customer-analytics/100.2.0.csv": "8a6f4877441f29fbbbe108b0c12b3b869c4703e6edca6b47421e5da84bf0374f",
         "db/packages/magento/module-customer-analytics/100.2.1.csv": "89c1bda06f64eda15d1b984394b4df20686f772d5e062cc3e52304fa594e8bfb",
         "db/packages/magento/module-customer-analytics/100.2.2.csv": "f0f0bb2c7c44a3a1315993c9966045dd484b229530a08451445606cda405eade",
