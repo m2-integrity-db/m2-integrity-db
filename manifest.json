@@ -1,6 +1,6 @@
 {
     "schema_version": 1,
-    "generated_at": "2026-11-17T01:46:11+00:00",
+    "generated_at": "2026-11-17T14:34:02+00:00",
     "hash_algorithm": "sha256",
     "source_url_templates": {
         "ce": "https://mirror.mage-os.org/packages/{vendor}/{name}-{version}.zip",
@@ -177,8 +177,8 @@
         }
     },
     "totals": {
-        "package_files": 24517,
-        "rows": 5791008
+        "package_files": 24522,
+        "rows": 5791231
     },
     "files": {
         "db/packages/magento/adobe-ims/2.1.2-p1.csv": "ab6ac53afb70abd5a5248f3f291f7830e389b930135ed30be5b8742e806c0983",
@@ -6610,6 +6610,8 @@
         "db/packages/magento/module-cms/104.0.8-p5.csv": "b76b10f70cd2bee576eedb06372a625db1ced5e5fdd8bf9e05303a21ecdbb899",
         "db/packages/magento/module-cms/104.0.8.csv": "3691986b7f2cb2299065e0af182192324fe40af4351e068e55b265e4e5e61da8",
         "db/packages/magento/module-cms/104.0.9.csv": "84b95b8ac2091c3585133602c0c61fb89a0b97cea1866ba2ffc5179b043bf459",
+        "db/packages/magento/module-commerce-backend-uix-custom-attributes-search/0.9.0.csv": "727c91982c224aa889cda709a1b39514468df1a2d0ed65cee39ebf86784c819b",
+        "db/packages/magento/module-commerce-backend-uix-custom-attributes/0.9.0.csv": "3deec84bd220f17058d7c1b5c94139b131d47be4bec6818cb549aeafcf2dc26a",
         "db/packages/magento/module-commerce-backend-uix/1.0.0.csv": "f805fcdb0fa31823a2a759da403a0e02f68a2d759a19db3350de9d54c9bb2a4d",
         "db/packages/magento/module-commerce-backend-uix/1.1.0.csv": "2f5e974958c470b7ca212f20569b069fe81572e17239783d25b54c78aa3e6554",
         "db/packages/magento/module-commerce-backend-uix/1.1.1.csv": "6aba70731938e87c4ab45afff239172d77261bc108571861fc9d092e006691d1",
@@ -8362,6 +8364,8 @@
         "db/packages/magento/module-custom-attribute-serializable-graph-ql/0.6.0.csv": "35a1242848c77bde473fcbbfb4db1a8faa462cc874bfe51cfd896cce5679a998",
         "db/packages/magento/module-custom-attribute-serializable-graph-ql/0.6.1.csv": "1b8d544edb69b103e155781277ed8fbcc0673966c256f0bb4135857281b257ad",
         "db/packages/magento/module-custom-attribute-serializable-graph-ql/0.7.0.csv": "313e66a45750cb2bd3a1ca69b1637ad9ad5c9646897a71daee848e8dca89e160",
+        "db/packages/magento/module-custom-attribute-serializable-graph-ql/0.9.0.csv": "381f11557e967f0c42fd33ba12af59f3f010e2fdcc112dfe18e4a04c344d4978",
+        "db/packages/magento/module-custom-attribute-serializable-search/0.9.0.csv": "0b14ed9e3edbfdf01de0e7f2d5c83dc8060fbcc1bb06d36b7d67519bdd0bf447",
         "db/packages/magento/module-custom-attribute-serializable/0.1.3.csv": "f110c4970f8c364b100265929651f92987b0db7aa0f0ecd49d495d03d7a237d0",
         "db/packages/magento/module-custom-attribute-serializable/0.1.4.csv": "c307e16f5e29500addcabd4decd4a5739dc189fd8bf1ddd3f1ab281b77c63978",
         "db/packages/magento/module-custom-attribute-serializable/0.1.5.csv": "a79b93e7eead53142fccaee1cf90433a4ac46b432d1dc88ee1364dd65f13a4f2",
@@ -8373,6 +8377,7 @@
         "db/packages/magento/module-custom-attribute-serializable/0.6.0.csv": "7850784cb6a16701e21ea3015c403a61bcad3e13901d67eb643fe524a180c894",
         "db/packages/magento/module-custom-attribute-serializable/0.6.1.csv": "78d32902ec5df252181ae2d9de8b7507df4fef1b9decb0c87e3669199641f6ad",
         "db/packages/magento/module-custom-attribute-serializable/0.7.0.csv": "a6096fac8c8be8cef2ff4ef6b7f4299e772d96b611ca67eb37def3899be08ab2",
+        "db/packages/magento/module-custom-attribute-serializable/0.9.0.csv": "942f16d71fbd1a31775f951f6876217906d274fe44aff7f56bbe7deac954fc9d",
         "db/packages/magento/module-customer-analytics/100.2.0.csv": "8a6f4877441f29fbbbe108b0c12b3b869c4703e6edca6b47421e5da84bf0374f",
         "db/packages/magento/module-customer-analytics/100.2.1.csv": "89c1bda06f64eda15d1b984394b4df20686f772d5e062cc3e52304fa594e8bfb",
         "db/packages/magento/module-customer-analytics/100.2.2.csv": "f0f0bb2c7c44a3a1315993c9966045dd484b229530a08451445606cda405eade",
