@@ -1,6 +1,6 @@
 {
     "schema_version": 1,
-    "generated_at": "2026-11-18T01:22:47+00:00",
+    "generated_at": "2026-11-18T12:39:09+00:00",
     "hash_algorithm": "sha256",
     "source_url_templates": {
         "ce": "https://mirror.mage-os.org/packages/{vendor}/{name}-{version}.zip",
@@ -177,8 +177,8 @@
         }
     },
     "totals": {
-        "package_files": 24525,
-        "rows": 5791405
+        "package_files": 24526,
+        "rows": 5791822
     },
     "files": {
         "db/packages/magento/adobe-ims/2.1.2-p1.csv": "ab6ac53afb70abd5a5248f3f291f7830e389b930135ed30be5b8742e806c0983",
@@ -1145,6 +1145,7 @@
         "db/packages/magento/magento-coding-standard/4.csv": "7b88f1e7161fb06f20c43b619f462665eca59a123d56d51d89e80b3dd509ceb7",
         "db/packages/magento/magento-coding-standard/40.csv": "ab96a1adfc9f1ed6662495bdf60a0cdf8ba0f447a618733fec9af2672bf7269d",
         "db/packages/magento/magento-coding-standard/41.csv": "be0c06dc75e503b54a068b1cc5252f78c51ef625fbc9dedcc8f848df4a608f3a",
+        "db/packages/magento/magento-coding-standard/42.csv": "7d2a749ac3c5c4f6d4c1d78bdb701fdb9eb506b795d53a8c88c356349b8225cf",
         "db/packages/magento/magento-coding-standard/5.csv": "f494786fef626cdcc94009e9754927183e932c81eee1655a11fa122da93a71f3",
         "db/packages/magento/magento-coding-standard/6.csv": "d1dc1ad374d64b59146999fdda76a1814d53d1724ee806fe3504758399361a69",
         "db/packages/magento/magento-coding-standard/7.csv": "c54fabb7fcd0e6a40fdef25031807bba1064233b368473d45fc3b8b67ed5f9c1",
