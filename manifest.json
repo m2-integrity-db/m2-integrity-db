@@ -1,6 +1,6 @@
 {
     "schema_version": 1,
-    "generated_at": "2026-11-18T12:39:09+00:00",
+    "generated_at": "2026-11-20T00:34:17+00:00",
     "hash_algorithm": "sha256",
     "source_url_templates": {
         "ce": "https://mirror.mage-os.org/packages/{vendor}/{name}-{version}.zip",
@@ -177,8 +177,8 @@
         }
     },
     "totals": {
-        "package_files": 24526,
-        "rows": 5791822
+        "package_files": 24530,
+        "rows": 5792760
     },
     "files": {
         "db/packages/magento/adobe-ims/2.1.2-p1.csv": "ab6ac53afb70abd5a5248f3f291f7830e389b930135ed30be5b8742e806c0983",
@@ -1047,6 +1047,7 @@
         "db/packages/magento/magento-cloud-docker/1.4.0.csv": "ae7a0a1f3ac048f6abbc54de3e7d30b5f299c75cee47c49afeea97dea265a950",
         "db/packages/magento/magento-cloud-docker/1.4.1.csv": "a8495aa2dd3dab7735546c712e59f89f2fcee2c38c8ab9861a6c00434b5c3fc3",
         "db/packages/magento/magento-cloud-docker/1.4.10.csv": "952ed340968a036e3c6b611a74375f5c81973d505d089e5adee8c5d8bf8c1146",
+        "db/packages/magento/magento-cloud-docker/1.4.11.csv": "2aeb36e5328351ab40c9cbd6e2d60950fee0c621b488fad359f8fcf15604ff12",
         "db/packages/magento/magento-cloud-docker/1.4.2.csv": "94b904125e90d93ab992278d2881b835555c4d9d25a4470052f3d50bd40ce1b5",
         "db/packages/magento/magento-cloud-docker/1.4.3.csv": "354c86651b7636c393bbd98d53400022c3689397a70cff0880af970ffde6da08",
         "db/packages/magento/magento-cloud-docker/1.4.4.csv": "90270b1287c2053b574302f05603012b2667c4ef6eb404689c32b8e41b48f477",
@@ -2056,6 +2057,7 @@
         "db/packages/magento/module-adobe-commerce-webhooks-generator/1.2.1.csv": "f58637dfa61e781071a0ba6a6fc38a0991c78c74d7a5c02c6da5ce6ddef00cfa",
         "db/packages/magento/module-adobe-commerce-webhooks-generator/1.20.0.csv": "da3adb4fccf43ab42cb3a51145f713e85857357b4783506ef711623c500d9e9f",
         "db/packages/magento/module-adobe-commerce-webhooks-generator/1.21.0.csv": "0d3045967fc3f9650d4d2310303fde3e0e2cb500ae3d3eb7e0f4553135aee797",
+        "db/packages/magento/module-adobe-commerce-webhooks-generator/1.22.0.csv": "51fcc8a6026db25f31335fad56f87951a4d55a85ce92ebc6d4d77534b80b4188",
         "db/packages/magento/module-adobe-commerce-webhooks-generator/1.3.0.csv": "da64d6753ea2af749cc17b3bbfc7e8226bc83471ebac799370fd4d1a71c3d56d",
         "db/packages/magento/module-adobe-commerce-webhooks-generator/1.3.1.csv": "a1f677608e8788c50e4a4fa2fdc8733ff1fed19e559e3cafd8afab10bae31b4c",
         "db/packages/magento/module-adobe-commerce-webhooks-generator/1.4.0.csv": "6a7c906d2f4bf1c7b6d726b2fff050772378f1bcc11d74ab34937d9be448894c",
@@ -2075,6 +2077,7 @@
         "db/packages/magento/module-adobe-commerce-webhooks-subscriber/1.19.0.csv": "9798b7ffd9ef5e3f11085b2e4f1653dbe2d09cdea31604f6019a6be1ba8e9bbd",
         "db/packages/magento/module-adobe-commerce-webhooks-subscriber/1.20.0.csv": "f3f5078fe58a08a5ff3f8a355c676275f1cb03c1132fd2657c9e65dee9948af8",
         "db/packages/magento/module-adobe-commerce-webhooks-subscriber/1.21.0.csv": "e832e0c55f6f709def9cc0a722501fdcf441ce91c91c2b8c9ef1976eca93c8c9",
+        "db/packages/magento/module-adobe-commerce-webhooks-subscriber/1.22.0.csv": "2309c656f6f575807607c3a02e569d94ade0fa8462255d366b11ab48fce89a22",
         "db/packages/magento/module-adobe-commerce-webhooks/1.0.0.csv": "9fad597a0a6716d8f7eb1563b9f0309223db95d6e6b179278e877132f4bea17c",
         "db/packages/magento/module-adobe-commerce-webhooks/1.1.0.csv": "2bfff6323e554a17964d4166e449f703fd6559a3dd325f5a55c2d102f39397be",
         "db/packages/magento/module-adobe-commerce-webhooks/1.10.0.csv": "22a2b036c1635cfaf21ef2657a98e89b8ff75ebb76579673933294c68d177199",
@@ -2092,6 +2095,7 @@
         "db/packages/magento/module-adobe-commerce-webhooks/1.2.1.csv": "f0e9f16d56ae9a140f345f5e674259903029cfdf6bac47d888e4718b367209d6",
         "db/packages/magento/module-adobe-commerce-webhooks/1.20.0.csv": "38101425c86fba31e4b77b32ddae950c4b23db0797555059c85bd5d561f60cb3",
         "db/packages/magento/module-adobe-commerce-webhooks/1.21.0.csv": "0b195129780b375405975ca906ebc68063ad87e1b3f72ffe1810ac2c9d800fbd",
+        "db/packages/magento/module-adobe-commerce-webhooks/1.22.0.csv": "5f204bd7360c57f9a15e1527d960695a597b658b88df672876b41d389bef5e28",
         "db/packages/magento/module-adobe-commerce-webhooks/1.3.0.csv": "ced443658b8345c2134551c24af2eb40009dd3b6b0831d96afa044b08c792113",
         "db/packages/magento/module-adobe-commerce-webhooks/1.3.1.csv": "110e961781d0e0dc123e6f06d522029b491b97b68781d4c3223e10fe66a2d37a",
         "db/packages/magento/module-adobe-commerce-webhooks/1.4.0.csv": "b56dc8cb8f76700256b267d7f4825aaf8c796cadb847e7ef978ae19a947c29c7",
