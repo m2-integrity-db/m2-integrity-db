@@ -1,6 +1,6 @@
 {
     "schema_version": 1,
-    "generated_at": "2026-11-20T00:34:17+00:00",
+    "generated_at": "2026-11-21T00:45:32+00:00",
     "hash_algorithm": "sha256",
     "source_url_templates": {
         "ce": "https://mirror.mage-os.org/packages/{vendor}/{name}-{version}.zip",
@@ -177,8 +177,8 @@
         }
     },
     "totals": {
-        "package_files": 24530,
-        "rows": 5792760
+        "package_files": 24532,
+        "rows": 5792790
     },
     "files": {
         "db/packages/magento/adobe-ims/2.1.2-p1.csv": "ab6ac53afb70abd5a5248f3f291f7830e389b930135ed30be5b8742e806c0983",
@@ -19166,6 +19166,7 @@
         "db/packages/magento/module-saas-commerce-eventing-common/1.4.0.csv": "17686cbd4540ca17bb2a7f73e5b0b3b7c11d685c0aae21711e597f2036d95206",
         "db/packages/magento/module-saas-commerce-eventing-common/1.5.0.csv": "b4a3924c5c368ed6853ac6abdfb81f19e801706db9eb66c007c511be99adc4c7",
         "db/packages/magento/module-saas-commerce-eventing-common/1.6.0.csv": "433f1283f4c83bbb2e38bbe483928758afc976cdc52ee031430b5a6891a0e3be",
+        "db/packages/magento/module-saas-commerce-eventing-common/1.6.1.csv": "46378f9f39c5b9ec387d434f5ab88555e4a7bbf6a8954064f69aed0493c095e9",
         "db/packages/magento/module-saas-commerce-eventing-demo/1.0.0.csv": "61d9701aa42c35a973e27c47e848cbda5dbf69e83fe1625633b3de96eb5d9405",
         "db/packages/magento/module-saas-commerce-eventing-demo/1.0.1.csv": "76cb6c08d1ade2e7a8e0b3ede9b0e6fe1b521d1537f877653467b9dec18cf2d7",
         "db/packages/magento/module-saas-commerce-eventing-demo/1.0.2.csv": "d396abda18284fa66238e285b41e43b97ac0d53cfb1eb3c2432ff0f4954f82fc",
@@ -19181,6 +19182,7 @@
         "db/packages/magento/module-saas-commerce-eventing-demo/1.4.0.csv": "c4c30732e851950cd9fbd6c8de5864b1e63914969dbab89f2e8276905d881c8e",
         "db/packages/magento/module-saas-commerce-eventing-demo/1.5.0.csv": "5d5e9d0e083dbd40dd6770dfdb7a0cf7e9824a678359c03e37ee4f9a28472995",
         "db/packages/magento/module-saas-commerce-eventing-demo/1.6.0.csv": "3532f0797e2c9895f59178da44b64c109e604bcdec7904c70f9be7d6b5a8eaac",
+        "db/packages/magento/module-saas-commerce-eventing-demo/1.6.1.csv": "93c5ac208017f26e9036ef022610c2fe75e1cacf95c20f88bbcee67bf7bd132c",
         "db/packages/magento/module-saas-common/101.0.0.csv": "4e4dbd69b35001a72aa8f01b9c5794e0079bf4e7c08a66b5892e6e64ec5817e9",
         "db/packages/magento/module-saas-common/101.1.0.csv": "85a71430d05090ea38290535c8d4635336d33408e5e0975adaec7eaab640337e",
         "db/packages/magento/module-saas-common/101.2.0.csv": "3b132229e97ed56fbd76de8acfc46d8250b520a2aef2b7da84d3859b5e90f965",
