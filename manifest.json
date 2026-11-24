@@ -1,6 +1,6 @@
 {
     "schema_version": 1,
-    "generated_at": "2026-11-21T00:45:32+00:00",
+    "generated_at": "2026-11-24T16:32:31+00:00",
     "hash_algorithm": "sha256",
     "source_url_templates": {
         "ce": "https://mirror.mage-os.org/packages/{vendor}/{name}-{version}.zip",
@@ -177,8 +177,8 @@
         }
     },
     "totals": {
-        "package_files": 24532,
-        "rows": 5792790
+        "package_files": 24533,
+        "rows": 5792855
     },
     "files": {
         "db/packages/magento/adobe-ims/2.1.2-p1.csv": "ab6ac53afb70abd5a5248f3f291f7830e389b930135ed30be5b8742e806c0983",
@@ -15233,6 +15233,7 @@
         "db/packages/magento/module-out-of-process-tax-management/0.12.0.csv": "984a545705cfd4ef151de5b9858d21395686b2f2cd0fa0e439364d8ad6cf54df",
         "db/packages/magento/module-out-of-process-tax-management/0.12.1.csv": "6e98e901c5d4cd83d6aecb87de1e8da78f6c5e7f7006e94f9bce420eaf4ce482",
         "db/packages/magento/module-out-of-process-tax-management/0.13.0.csv": "4a63aa8302ae30861a658420821c5747093c3232fe43e5f09d3376a663dab33a",
+        "db/packages/magento/module-out-of-process-tax-management/0.14.0.csv": "fea49f9f76dfa03f6cc3428f7562ce54bf2618dbb24d9f04723742a60df245a2",
         "db/packages/magento/module-out-of-process-tax-management/0.2.0.csv": "55510947182d6abe712748f371d6793cf4190f675801033d21b11d2519c94f02",
         "db/packages/magento/module-out-of-process-tax-management/0.3.0.csv": "8b05b415768f8dcb01d57e4344ea73f0a0cb89f8ab8df6226f1865454b3d982f",
         "db/packages/magento/module-out-of-process-tax-management/0.4.0.csv": "fddbe9e4a603239b775089c9ef76a84c2fbaa431174f89d1641c59cad1cae74b",
