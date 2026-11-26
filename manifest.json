@@ -1,6 +1,6 @@
 {
     "schema_version": 1,
-    "generated_at": "2026-11-25T15:42:55+00:00",
+    "generated_at": "2026-11-26T15:19:51+00:00",
     "hash_algorithm": "sha256",
     "source_url_templates": {
         "ce": "https://mirror.mage-os.org/packages/{vendor}/{name}-{version}.zip",
@@ -177,8 +177,8 @@
         }
     },
     "totals": {
-        "package_files": 24534,
-        "rows": 5794713
+        "package_files": 24535,
+        "rows": 5794831
     },
     "files": {
         "db/packages/magento/adobe-ims/2.1.2-p1.csv": "ab6ac53afb70abd5a5248f3f291f7830e389b930135ed30be5b8742e806c0983",
@@ -4379,6 +4379,7 @@
         "db/packages/magento/module-catalog-data-exporter/42.4.5.csv": "e5b53a948ea3d5b2c6e7bb13cbf0f40c73102f8b9afea05e73fd80f462aa8d90",
         "db/packages/magento/module-catalog-enrichment/1.0.2.csv": "d0a171a517e36e88cc93f98d2b1c4d7b4981c2b8d0ae088003e62f6cc37c52db",
         "db/packages/magento/module-catalog-enrichment/2.1.2.csv": "172cc25c636b0abd0d5c0c812382979b6d04ab5ee75660cab09ba0b2b8247a7e",
+        "db/packages/magento/module-catalog-enrichment/2.1.3.csv": "da0dc8fb06c1efc69c5356bba176a0d092986eaac26f65687cd29add07397605",
         "db/packages/magento/module-catalog-event/100.0.2.csv": "40cac1f8b3b032fc60d53f59d23367ae83e8e2dfca9aa6e105171982ba539711",
         "db/packages/magento/module-catalog-event/100.0.3.csv": "1455cd7b9cd4b85c8df233a06661bf434749765f292e0d62604a7c4b96ccb578",
         "db/packages/magento/module-catalog-event/100.0.4.csv": "1c1407fe31fc20c1766c126ac4357adaed75e0a25f78fddf1cdae19c18f18dfb",
